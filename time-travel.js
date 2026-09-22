@@ -13,7 +13,8 @@ const travelDate = "2024-03-15";
 console.log(timeMachineModel);
 var timeMachineModel = "T-800";
 
-/*Obervations:
+/*
+*Obervations:
 *After getting rid of the travelDate the code ran great.
 *I ran it through the terminal and it showed (Ancient Egypt,Medieval Europe,
 undefined)
